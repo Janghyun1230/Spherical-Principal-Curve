@@ -132,8 +132,8 @@ def simulation(d_type="circle", q=0.05, n_point=100, sigma2_list=[0.07, 0.1], re
 if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser()
-    parser.add_argument('--q', type=float)
-    parser.add_argument('--n', type=int)
+    parser.add_argument('-q', type=float, help='hyperparamter of the kernel')
+    parser.add_argument('-n', type=int, help='number of curve points')
 
     args = parser.parse_args()
 
