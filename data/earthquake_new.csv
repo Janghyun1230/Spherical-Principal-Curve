@@ -1,0 +1,78 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1976-01-14T16:47:33.500Z,-28.427,-177.657,33,8,ms,,,,,us,usp0000ee7,2016-11-10T02:39:03.544Z,Kermadec Islands region,earthquake,,,,,reviewed,us,us
+1917-05-01T18:26:20.000Z,-31.08,-176.461,15,8.2,mw,,,,,iscgem,iscgem913483,2015-05-13T18:52:41.000Z,Kermadec Islands region,earthquake,,,,,automatic,iscgem,iscgem
+1957-03-09T14:22:33.000Z,51.499,-175.626,25,8.6,mw,,,,,official,official19570309142233_30,2018-02-23T22:35:37.825Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,,,,automatic,iscgem,official
+1986-05-07T22:47:10.870Z,51.52,-174.776,33,8,mw,,,,1.1,us,usp0002tmu,2018-01-11T21:42:14.190Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,,,,reviewed,us,hrv
+2006-05-03T15:26:40.290Z,-20.187,-174.123,55,8,mwc,626,20.7,,1.18,us,usp000eg5g,2017-11-13T16:23:42.955Z,Tonga,earthquake,,,,,reviewed,us,hrv
+1917-06-26T05:49:46.000Z,-14.739,-173.562,15,8,mw,,,,,iscgem,iscgem913548,2015-05-13T18:52:41.000Z,Samoa Islands region,earthquake,,,,,automatic,iscgem,iscgem
+1919-04-30T07:17:17.000Z,-18.352,-172.515,25,8.1,mw,,,,,iscgem,iscgem912773,2015-05-13T18:52:41.000Z,Tonga region,earthquake,,,,,automatic,iscgem,iscgem
+2009-09-29T17:48:10.990Z,-15.489,-172.095,18,8.1,mwc,520,20.8,,1.01,us,usp000h1ys,2017-11-13T18:23:04.726Z,Samoa Islands region,earthquake,,,,,reviewed,us,gcmt
+1946-04-01T12:29:01.000Z,53.492,-162.832,15,8.6,mw,,,,,official,official19460401122901_30,2018-01-11T21:19:32.122Z,south of Alaska,earthquake,,,,,automatic,iscgem,official
+1938-11-10T20:18:49.000Z,55.178,-158.181,35,8.3,mw,,,,,iscgem,iscgem902774,2018-01-11T20:41:38.608Z,Alaska Peninsula,earthquake,,,,,automatic,iscgem,iscgem
+1964-03-28T03:36:16.000Z,60.908,-147.339,25,9.2,mw,,,,,official,official19640328033616_30,2018-03-09T15:26:26.398Z,Southern Alaska,earthquake,,,,,automatic,iscgem,official
+1949-08-22T04:01:18.000Z,53.673,-133.015,10,8.2,mw,,,,,iscgem,iscgem896789,2015-05-13T18:52:45.000Z,"Haida Gwaii, Canada",earthquake,,,,,automatic,iscgem,iscgem
+1995-10-09T15:35:53.910Z,19.055,-104.205,33,8,mw,,,,1.3,us,usp00074vc,2017-04-26T17:51:08.905Z,"Colima, Mexico",earthquake,,,,,reviewed,us,hrv
+1932-06-03T10:36:56.000Z,19.786,-103.784,15,8.1,mw,,,,,iscgem,iscgem906183,2015-05-13T18:52:43.000Z,"Jalisco, Mexico",earthquake,,,,,automatic,iscgem,iscgem
+1985-09-19T13:17:47.350Z,18.19,-102.533,27.9,8,mw,,,,1.3,us,usp0002jwe,2018-02-15T02:39:09.214Z,"Michoacan, Mexico",earthquake,,3.8,,,reviewed,us,hrv
+2017-09-08T04:49:19.180Z,15.0222,-93.8993,47.39,8.2,mww,,22,0.944,1.22,us,us2000ahv0,2018-03-21T18:24:39.472Z,"101km SSW of Tres Picos, Mexico",earthquake,6.2,3.7,0.058,29,reviewed,us,us
+1906-01-31T15:36:10.000Z,0.955,-79.369,20,8.8,mw,,,,,official,official19060131153610_30,2018-02-14T23:07:34.956Z,near the coast of Ecuador,earthquake,,,,,reviewed,iscgem,official
+1966-10-17T21:42:00.000Z,-10.665,-78.228,40,8.1,mw,,,,,iscgem,iscgem842581,2018-03-12T16:48:17.748Z,near the coast of central Peru,earthquake,,,,,automatic,iscgem,iscgem
+1940-05-24T16:33:59.000Z,-11.094,-77.487,45,8.2,mw,,,,,iscgem,iscgem901374,2015-05-13T18:52:44.000Z,near the coast of central Peru,earthquake,,,,,automatic,iscgem,iscgem
+2007-08-15T23:40:57.890Z,-13.386,-76.603,39,8,mwc,625,25.7,,0.86,us,usp000fjta,2018-03-12T21:29:10.563Z,near the coast of central Peru,earthquake,,,,,reviewed,us,gcmt
+1942-08-24T22:50:32.000Z,-14.819,-74.708,30,8.1,mw,,,,,iscgem,iscgem900444,2018-02-14T21:48:04.241Z,central Peru,earthquake,,,,,automatic,iscgem,iscgem
+2001-06-23T20:33:14.130Z,-16.265,-73.641,33,8.4,mww,518,,,1.05,official,official20010623203314130_33,2018-03-12T20:52:30.252Z,near the coast of southern Peru,earthquake,,,,,reviewed,us,official
+1960-05-22T19:11:20.000Z,-38.143,-73.407,25,9.5,mw,,,,,official,official19600522191120_30,2018-03-12T17:39:40.763Z,"Bio-Bio, Chile",earthquake,,,,,automatic,iscgem,official
+1960-05-21T10:02:57.000Z,-37.824,-73.353,25,8.1,mw,,,,,iscgem,iscgem879106,2017-04-13T21:39:30.994Z,"Bio-Bio, Chile",earthquake,,,,,automatic,iscgem,iscgem
+2010-02-27T06:34:11.530Z,-36.122,-72.898,22.9,8.8,mww,454,17.8,,1.09,official,official20100227063411530_30,2018-03-12T21:30:49.832Z,"offshore Bio-Bio, Chile",earthquake,,9.2,,,reviewed,us,official
+1970-07-31T17:08:05.000Z,-1.597,-72.532,644.8,8,mw,,,,,iscgem,iscgem794176,2018-02-14T22:40:48.441Z,Colombia,earthquake,,,,,automatic,iscgem,iscgem
+1985-03-03T22:47:07.280Z,-33.135,-71.871,33,8,mw,,,,1,us,usp0002ccz,2018-03-12T16:55:28.418Z,"offshore Valparaiso, Chile",earthquake,,,,,reviewed,us,hrv
+2015-09-16T22:54:32.860Z,-31.5729,-71.6744,22.44,8.3,mww,,19,0.684,1.02,us,us20003k7a,2018-03-13T01:17:13.078Z,"48km W of Illapel, Chile",earthquake,4.7,3.2,,,reviewed,us,us
+1943-04-06T16:07:17.000Z,-31.432,-71.475,35,8.1,mw,,,,,iscgem,iscgem899789,2015-05-13T18:52:45.000Z,"Coquimbo, Chile",earthquake,,,,,automatic,iscgem,iscgem
+1906-08-17T00:40:04.000Z,-32.4,-71.4,35,8.2,mw,,,,,iscgemsup,iscgemsup16957911,2015-07-13T17:02:22.000Z,"Valparaiso, Chile",earthquake,,,,,automatic,iscgem,iscgem
+2014-04-01T23:46:47.260Z,-19.6097,-70.7691,25,8.2,mww,,23,0.609,0.66,us,usc000nzvd,2018-03-13T01:14:03.426Z,"94km NW of Iquique, Chile",earthquake,,1.8,,,reviewed,us,us
+1995-07-30T05:11:23.630Z,-23.34,-70.294,45.6,8,mw,,,,1.1,us,usp000714t,2018-03-12T17:58:16.211Z,"Antofagasta, Chile",earthquake,,,,,reviewed,us,hrv
+1922-11-11T04:32:51.000Z,-28.293,-69.852,70,8.5,mw,,,,,official,official19221111043251_30,2018-02-14T20:20:38.747Z,"Atacama, Chile",earthquake,,,,,automatic,iscgem,official
+1950-12-09T21:38:51.000Z,-23.977,-67.912,113.9,8.2,mw,,,,,iscgem,iscgem896170,2015-05-13T18:52:46.000Z,"Antofagasta, Chile",earthquake,,,,,automatic,iscgem,iscgem
+1994-06-09T00:33:16.230Z,-13.841,-67.553,631.3,8.2,mw,,,,1.1,us,usp0006dzc,2017-04-13T22:06:46.435Z,"La Paz, Bolivia",earthquake,,,,,reviewed,us,hrv
+1977-08-19T06:08:55.000Z,-11.164,118.378,25,8.3,mw,,,,,iscgem,iscgem694739,2017-07-14T20:09:18.554Z,"south of Sumbawa, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1920-06-05T04:21:35.000Z,23.684,121.986,20,8.2,mw,,,,,iscgem,iscgem912519,2015-05-13T18:52:41.000Z,Taiwan,earthquake,,,,,automatic,iscgem,iscgem
+1939-12-21T21:00:31.000Z,-0.073,122.51,35,8.1,mw,,,,,iscgem,iscgem902275,2015-05-13T18:52:44.000Z,"Sulawesi, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1910-04-12T00:22:24.000Z,25.911,123.973,235,8.1,mw,,,,,iscgem,iscgem16958079,2015-05-13T18:52:41.000Z,northeast of Taiwan,earthquake,,,,,automatic,iscgem,iscgem
+1918-08-15T12:18:21.000Z,5.967,124.377,20,8.3,mw,,,,,iscgem,iscgem913230,2015-05-13T18:52:41.000Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1965-01-24T00:11:17.000Z,-2.608,125.952,20,8.2,mw,,,,,iscgem,iscgem861299,2018-02-14T22:14:19.916Z,"Kepulauan Sula, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1924-04-14T16:20:36.000Z,6.722,126.038,15,8,mw,,,,,iscgem,iscgem910911,2015-05-13T18:52:42.000Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1972-12-02T00:19:52.000Z,6.405,126.64,60,8,mw,,,,,iscgem,iscgem765501,2017-04-26T17:26:24.614Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1963-11-04T01:17:09.000Z,-6.843,129.684,65,8.1,mw,,,,,iscgem,iscgem17294492,2017-04-13T21:40:16.567Z,Banda Sea,earthquake,,,,,automatic,iscgem,iscgem
+1938-02-01T19:04:22.000Z,-5.045,131.614,25,8.5,mw,,,,,official,official19380201190422_30,2018-02-14T23:41:34.459Z,Banda Sea,earthquake,,,,,automatic,iscgem,official
+1946-12-20T19:19:10.000Z,33.116,135.895,15,8.3,mw,,,,,iscgem,iscgem898698,2018-01-19T15:35:43.594Z,"near the south coast of western Honshu, Japan",earthquake,,,,,automatic,iscgem,iscgem
+1944-12-07T04:35:45.000Z,33.682,136.204,15,8.1,mw,,,,,iscgem,iscgem899647,2018-01-18T19:50:43.059Z,"near the south coast of western Honshu, Japan",earthquake,,,,,automatic,iscgem,iscgem
+1914-05-26T14:22:47.000Z,-1.829,136.943,15,8.1,mw,,,,,iscgem,iscgem913984,2015-05-13T18:52:41.000Z,"Biak region, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1996-02-17T05:59:30.550Z,-0.891,136.952,33,8.2,mw,,,,1.3,us,usp0007d1w,2017-04-26T17:51:37.418Z,"Biak region, Indonesia",earthquake,,,,,reviewed,us,hrv
+1923-09-01T02:58:35.000Z,35.413,139.298,15,8.1,mw,,,,,iscgem,iscgem911526,2018-02-14T20:27:13.497Z,"near the south coast of Honshu, Japan",earthquake,,,,,automatic,iscgem,iscgem
+2011-03-11T05:46:24.120Z,38.297,142.373,29,9.1,mww,541,9.5,,1.16,official,official20110311054624120_30,2017-11-13T20:12:27.632Z,"near the east coast of Honshu, Japan",earthquake,,,,,reviewed,us,official
+1960-03-20T17:07:31.000Z,39.869,143.228,15,8,mw,,,,,iscgem,iscgem878564,2015-05-13T18:52:54.000Z,"off the east coast of Honshu, Japan",earthquake,,,,,automatic,iscgem,iscgem
+1968-05-16T00:49:02.000Z,40.86,143.435,29.9,8.2,mw,,,,,iscgem,iscgem821946,2017-04-13T21:43:12.700Z,"off the east coast of Honshu, Japan",earthquake,,,,,automatic,iscgem,iscgem
+1952-03-04T01:22:49.000Z,42.084,143.899,45,8.1,mw,,,,,iscgem,iscgem892540,2015-05-13T18:52:47.000Z,"Hokkaido, Japan region",earthquake,,,,,automatic,iscgem,iscgem
+2003-09-25T19:50:06.360Z,41.815,143.91,27,8.3,mwc,669,27.4,,0.88,us,usp000c8kv,2017-11-08T17:50:43.110Z,"Hokkaido, Japan region",earthquake,,,,,reviewed,us,hrv
+1933-03-02T17:31:00.000Z,39.209,144.59,15,8.4,mw,,,,,official,official19330302173100_30,2018-01-18T19:24:45.845Z,"off the east coast of Honshu, Japan",earthquake,,,,,automatic,iscgem,official
+1906-09-14T16:04:43.000Z,-6.249,147.281,35,8,mw,,,,,iscgemsup,iscgemsup16957920,2015-07-13T17:02:22.000Z,"eastern New Guinea region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+1994-10-04T13:22:55.840Z,43.773,147.321,14,8.3,mw,,,,0.9,us,usp0006kdp,2017-04-26T17:49:33.878Z,Kuril Islands,earthquake,,4.7,,,reviewed,us,hrv
+1958-11-06T22:58:09.000Z,44.479,148.485,35,8.3,mw,,,,,official,official19581106225809_30,2018-02-15T00:07:36.248Z,Kuril Islands,earthquake,,,,,automatic,iscgem,official
+1963-10-13T05:17:59.000Z,44.872,149.483,35,8.5,mw,,,,,official,official19631013051759_30,2016-11-07T23:04:13.097Z,Kuril Islands,earthquake,,,,,reviewed,iscgem,official
+1998-03-25T03:12:25.070Z,-62.877,149.527,10,8.1,mwc,,,,1.1,us,usp0008hzd,2017-02-07T23:26:11.484Z,Balleny Islands region,earthquake,,,,,reviewed,us,hrv
+1918-09-07T17:16:23.000Z,46.737,150.653,15,8.1,mw,,,,,iscgem,iscgem913260,2015-05-13T18:52:41.000Z,Kuril Islands,earthquake,,,,,automatic,iscgem,iscgem
+2000-11-16T04:54:56.740Z,-3.98,152.169,33,8,mwc,254,,,1.2,us,usp000a3qq,2017-11-07T16:27:18.152Z,"New Ireland region, Papua New Guinea",earthquake,,,,,reviewed,us,hrv
+1971-07-26T01:23:22.000Z,-4.817,153.172,40,8.1,mw,,,,,iscgem,iscgem782684,2017-04-13T21:45:59.754Z,"New Ireland region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+2013-05-24T05:44:48.980Z,54.892,153.221,598.1,8.3,mww,385,10,,1.02,us,usb000h4jh,2017-11-14T15:31:30.472Z,Sea of Okhotsk,earthquake,,4.1,,,reviewed,us,us
+2006-11-15T11:14:13.570Z,46.592,153.266,10,8.3,mwc,576,20.9,,1.07,us,usp000exfn,2017-11-13T16:26:35.708Z,Kuril Islands,earthquake,,,,,reviewed,us,gcmt
+1971-07-14T06:11:30.000Z,-5.524,153.85,40,8,mw,,,,,iscgem,iscgem782181,2017-04-26T17:25:06.962Z,"New Ireland region, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem
+2007-01-13T04:23:21.160Z,46.243,154.524,10,8.1,mwc,606,14,,1.12,us,usp000f2ab,2017-11-13T17:24:37.283Z,east of the Kuril Islands,earthquake,,,,,reviewed,us,gcmt
+2007-04-01T20:39:58.710Z,-8.466,157.043,24,8.1,mwc,439,14.7,,1.32,us,usp000f83m,2017-11-13T17:26:26.601Z,Solomon Islands,earthquake,,,,,reviewed,us,gcmt
+1952-11-04T16:58:30.000Z,52.623,159.779,21.6,9,mw,,,,,official,official19521104165830_30,2018-02-14T23:32:59.867Z,"off the east coast of the Kamchatka Peninsula, Russia",earthquake,,,,,automatic,iscgem,official
+1923-02-03T16:01:50.000Z,54.486,160.472,15,8.4,mw,,,,,official,official19230203160150_30,2016-11-07T23:05:31.396Z,"near the east coast of the Kamchatka Peninsula, Russia",earthquake,,,,,automatic,iscgem,official
+1989-05-23T10:54:46.320Z,-52.341,160.568,10,8.2,mw,,,,1.3,us,usp0003vj7,2016-11-10T00:35:48.762Z,Macquarie Island region,earthquake,,,,,reviewed,us,par
+2004-12-23T14:59:04.410Z,-49.312,161.345,10,8.1,mwc,331,59.3,,1.12,us,usp000db93,2017-11-08T18:17:40.926Z,north of Macquarie Island,earthquake,,,,,reviewed,us,hrv
+2013-02-06T01:12:25.830Z,-10.799,165.114,24,8,mww,460,20.9,,1.29,us,usc000f1s0,2017-11-14T15:04:29.141Z,"76km W of Lata, Solomon Islands",earthquake,,,,,reviewed,us,us
+1920-09-20T14:39:03.000Z,-20.088,168.523,25,8.1,mw,,,,,iscgem,iscgem912618,2015-05-13T18:52:41.000Z,"Loyalty Islands, New Caledonia",earthquake,,,,,automatic,iscgem,iscgem
+1906-08-17T00:11:10.000Z,51.853,178.18,110,8.3,mw,,,,,iscgem,iscgem16957912,2015-05-13T18:52:41.000Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,,,,automatic,iscgem,iscgem
+1965-02-04T05:01:22.000Z,51.251,178.715,30.3,8.7,mw,,,,,official,official19650204050122_30,2018-03-06T22:21:25.616Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,,,,automatic,iscgem,official
