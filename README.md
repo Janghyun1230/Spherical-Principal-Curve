@@ -18,8 +18,9 @@ Check Final Code.IPYNB (install jupyter notebook and execute 'jupyter notebook' 
 - principal_curves.py: codes for principal curve fitting
 - main.py: For Earthquake data (fitted curve is saved)
 ```
-python main.py -q 0.05 -e True -i False 
-Note, q : neighborhood ratio, e : ours (True) or Hauberg's(False), i : intrinsic (True) or extrinsic (False)
+python main.py -q 0.05 -n 500 -e True -i False 
+Note, q : neighborhood ratio, n : points of a curve
+      e : ours (True) or Hauberg's(False), i : intrinsic (True) or extrinsic (False)
 ```
 - silmulation.py: simulation data experiment (excel files are saved):
 ```
