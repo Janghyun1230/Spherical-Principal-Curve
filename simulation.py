@@ -131,9 +131,9 @@ def simulation(d_type="circle", q=0.05, n_point=100, sigma2_list=[0.07, 0.1], re
 
 if __name__ == "__main__":
     import argparse
-    parser = argparse.ArgumentParser()
-    parser.add_argument('-q', type=float, help='hyperparamter of the kernel')
-    parser.add_argument('-n', type=int, help='number of curve points')
+    parser = argparse.ArgumentParser("Simultaion with circle and wave data")
+    parser.add_argument('-q', type=float, default=0.05, help='neighborhood ratio')
+    parser.add_argument('-n', type=int, default=100, help='number of points of the curve')
 
     args = parser.parse_args()
 

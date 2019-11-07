@@ -53,7 +53,7 @@ def train(data_path, save=True, q=0.3, n_point=100, intrinsic=False, exact=True)
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('-q', type=float, default=0.05, help='neighborhood ratio')
-    parser.add_argument('-n', type=int, default=77, help='number of curve points')
+    parser.add_argument('-n', type=int, help='number of points of the curve')
     parser.add_argument('-i', '--intrinsic', type=str2bool, default=False, help='intrinsic or extrinsic')
     parser.add_argument('-e', '--exact', type=str2bool, default=True, help='exact projection or not')
 
